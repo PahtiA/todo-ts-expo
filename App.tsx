@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
   flex: 1,
   padding: 20,
   marginTop: 50,
-  backgroundColor: '#ffffff',   // ← lisää tämä
+  backgroundColor: '#ffffff',
 },
 
   title: {
